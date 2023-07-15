@@ -1,0 +1,15 @@
+Source PCB Design PCB3.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [eMMC to MicroSD Adapter.PrjPcb]
+   Generated File[PCB3-RoundHoles.TXT]
+   Generated File[PCB3-SlotHoles.TXT]
+   Generated File[PCB3.LDP]
+   Generated File[PCB3.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At ¤U¤È 04:27:09 On 2023/3/11
