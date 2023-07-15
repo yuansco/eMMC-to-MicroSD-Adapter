@@ -12,9 +12,9 @@ Gerber : [ZIP](https://github.com/yuansco/eMMC-to-MicroSD-Adapter/blob/master/Ge
 
 ### Top View
 
-<img src="https://github.com/yuansco/eMMC-to-MicroSD-Adapter/blob/master/Image/screenshot1.PNG" style="width:550px;"/>
+<img src="https://github.com/yuansco/eMMC-to-MicroSD-Adapter/blob/master/Image/screenshot1.PNG" style="width:350px;"/>
 
 ### 3D View
 
-<img src="https://github.com/yuansco/eMMC-to-MicroSD-Adapter/blob/master/Image/screenshot2.PNG" style="width:550px;"/>
+<img src="https://github.com/yuansco/eMMC-to-MicroSD-Adapter/blob/master/Image/screenshot2.PNG" style="width:350px;"/>
 
